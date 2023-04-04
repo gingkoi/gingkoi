@@ -1,4 +1,10 @@
-### Hi, I'm Boon Juan (Or you call me Gingkoi too) 👋
+### Hi, I'm Boon Juan 👋
+
+Hello! I'm Boon Juan and I'm currently pursing a Computer Science major on my 1st year. Currently, my interest lie in front-end development and my focus right now is building a solid understanding of React and the tools it offers. In order to accomplish this, I'm taking an online course on full-stack development while building my own applications in parallel.
+
+On my own time, I like to play games such as MOBA and simulator genres (Kairosoft games).
+
+### You can call me Gingkoi too, I used them for most of games and other stuff too! :)
 
 <!--
 **gingkoi/gingkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
