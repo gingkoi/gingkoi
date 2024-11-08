@@ -1,6 +1,6 @@
 ### Hi, I'm Boon Juan 👋
 
-Hello! I'm Boon Juan and I'm currently pursing a Computer Science major on my 1st year. Currently, my interest lie in front-end development and my focus right now is building a solid understanding of React and the tools it offers. In order to accomplish this, I'm taking an online course on full-stack development while building my own applications in parallel.
+Hello! I'm Boon Juan and I'm dealing with network devices as a career. Currently, my interest lie in front-end development and my focus right now is building a solid understanding of React and the tools it offers. In order to accomplish this, I'm taking an online course on full-stack development while building my own applications in parallel.
 
 On my own time, I like to play games such as MOBA and simulator genres (Kairosoft games).
 
